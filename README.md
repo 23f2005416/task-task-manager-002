@@ -1,7 +1,7 @@
-# Task: task-manager-002
+# Task: task-task-manager-002
 
 ## Overview
-Build a task management application where users can add, edit, delete, and mark tasks as complete. Include local storage to persist tasks between sessions. Use Bootstrap for styling with different priority colors.
+Build a task management application where users can add, edit, delete, and mark tasks as complete. Include local storage to persist tasks.
 
 ## Description
 This project was automatically generated as part of the LLM Code Deployment system.
@@ -18,7 +18,7 @@ This project was automatically generated as part of the LLM Code Deployment syst
 
 ## Deployment
 This project is automatically deployed to GitHub Pages. The live site is available at:
-`https://[username].github.io/task-manager-002/`
+`https://[username].github.io/task-task-manager-002/`
 
 ## Technologies Used
 - HTML5
