@@ -1,7 +1,7 @@
 # Task: task-task-manager-002
 
 ## Overview
-Build a task management application where users can add, edit, delete, and mark tasks as complete. Include local storage to persist tasks.
+Add task categories, due dates, and priority levels to the task manager. Also include a search function to filter tasks.
 
 ## Description
 This project was automatically generated as part of the LLM Code Deployment system.
